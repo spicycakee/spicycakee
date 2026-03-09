@@ -102,5 +102,5 @@ Coming soon
 ---
 
 <p align="center">
-"If there's a bug, there's a fix — I just haven't found it yet."
+"if there's a problem, there's a tutorial"
 </p>
