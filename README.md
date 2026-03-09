@@ -94,14 +94,6 @@ Features
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/spicycakee/spicycakee/output/snake.svg" />
-</p>
-
----
-
 ## 🌐 Portfolio
 
 Coming soon
