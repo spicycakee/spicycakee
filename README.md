@@ -13,84 +13,95 @@ I build functional, reliable, and user-friendly websites that help businesses gr
 
 ## 👩‍💻 About Me
 
-- 🎓 Bachelor of Science in Information Technology (BSIT)  
+- 🎓 Bachelor of Science in Information Technology  
 - 🌏 Based in the Philippines  
 - 💼 Freelance Web Developer  
 - ⚡ I enjoy solving real-world problems through web development  
 - 🧠 Always learning new technologies and improving my workflow  
 
-I design, build, and maintain high-quality websites for businesses and organizations.
+---
+
+## 🚀 Freelance Work
+
+I design, build and maintain fully functional websites such as:
+
+• bitcoincitadel.net
+• mediatiger.co
+• interviewmegpt.com
+• rentalizer.ai  
+• sylverspiritual.com  
 
 ## 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,react,nodejs,mysql,git,github,figma,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql,git,github,figma,linux,nginx,arduino,java,wordpress,flutter,androidstudio,swift,kotlin" />
 </p>
-
----
-
-## 💻 Tech Stack
-
-**Web Development**
-
-HTML • CSS • JavaScript • PHP  
-WordPress • Wix • Squarespace • WooCommerce  
-
-**WordPress Themes / Builders**
-
-Elementor  
-Kubio  
-Betheme  
-Archeo  
-Otter Gutenberg  
-Flatsome  
-
-**Other Skills**
-
-SEO Setup (Google Search Console)  
-Site Migration  
-Performance Optimization  
-API Integrations  
-Hosting Troubleshooting  
 
 ---
 
 ## 📂 Academic Projects
 
+### 🔋 ECO-CHARGE (Capstone Project)
+
+Solar-powered phone charging kiosk designed for university campuses.
+
+Features:
+
+• Solar-powered charging system  
+• Arduino Mega microcontroller  
+• Coin-operated payment system  
+• LCD display for charging time and user interaction  
+• Multiple charging ports for mobile devices  
+
+Tech Used:
+
+Arduino Mega  
+Arduino IDE  
+Solar Panel System  
+Embedded Electronics
+
+---
+
 ### 🏝 Casanjo Resort Booking Website
+
 Resort booking system with database integration.
 
-**Tech Used**
+Tech Used
 
 PHP • HTML • CSS • JavaScript • phpMyAdmin
 
-Features:
-- Reservation system
-- User interface design
-- Database integration
+Features
+
+• Reservation system  
+• UI/UX design  
+• Database integration  
 
 ---
 
 ### 🧋 Milktea POS System
+
 Point-of-sale system for a milktea shop.
 
-**Tech Used**
+Tech Used
 
 Java GUI
 
-Features:
-- Sales interface
-- Product management
-- UI wireframe design
+Features
+
+• Sales interface  
+• Product management  
+• UI wireframe design   
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=spicycakee&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=spicycakee&theme=tokyonight"/>
 </p>
 
 ---
@@ -102,5 +113,6 @@ Coming soon
 ---
 
 <p align="center">
-"if there's a problem, there's a tutorial"
+try{ code(); }  
+catch(e){ google(e); }
 </p>
