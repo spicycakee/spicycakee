@@ -27,7 +27,6 @@ I design, build and maintain fully functional websites such as:
 
 • bitcoincitadel.net
 • mediatiger.co
-• interviewmegpt.com
 • rentalizer.ai
 • sylverspiritual.com 
 
