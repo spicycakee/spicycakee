@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="985px" height="605px" font-size="14px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0550ae;}
+.cc {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="605px" fill="#ffffff" rx="15"/>
+<text x="10" y="10" fill="#1a7a2a" font-size="3.35px" font-family="'Courier New',Courier,monospace">
+<tspan x="10" y="8.52">WWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNXOdoooollllcloollccccc:;;;::clllllooolcc:cc::::;;;;;;;;:c::::::::ccccclllooddxxxkkkkkkOOOOO0000KKKKKKKKKKKK000000OO</tspan>
+<tspan x="10" y="12.04">WWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKkdlloolclllllollccccc:;;;:ccllllloollccc::::::;;;;;;;;::::::::ccccccclllooddxxxkkkkkkOOOO00000KKKKKKKKKKKK000000000</tspan>
+<tspan x="10" y="15.56">WWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKkoooooccllccllllcccc::;;;:cllcllllllllcc::::::;;;;;;;;::::::::ccccccllloooddxxxkkkkkOOOOOO00000KKKKKKKKKKK0000000000</tspan>
+<tspan x="10" y="19.08">WWWWWWWWWWWWWWNWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKkooddlcclllllllccccc:;;;::cccllllllllccc:;:::;;;;;,,;;:::::::::cccclllloodddxxkkkkkkOOOOOOO00000KKKKKKKKKKK0000000000</tspan>
+<tspan x="10" y="22.6">WWWWWWWWWWWWWNNWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0dlodlcclllllllccccc:;;;:cccccccccclllc:;;;::;;;;,,,;;;::::::::ccccllloooddxxxkkkkkOOOOOOO0000000KKKKKKKKKKKKKKK000000</tspan>
+<tspan x="10" y="26.12">WWWWWWWWWWWWWNNNWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXK0ocodlccllcclllccccc:;;;:cllcccccccllcc:;;;::;;;;,,,;;:;::::::cccclllloodddxxxkkkkkOOOOOOO00000000KKKKKKKKKKKKKKKK00000</tspan>
+<tspan x="10" y="29.64">WWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKOocoolccllccllccccc:;;;;:ccccc:ccc:clc:;;;;;;;;;;,,,;;;;;:::::ccccllloooddxxxkkkkkkOOOOOOOO00000000KKKKKKKKKKKKKKKKK0000</tspan>
+<tspan x="10" y="33.16">WWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0Ooclolccclccclc:ccc:;;;;:cccc:::cc:cllc;;;;;;;,;;,,,,;;;;;:::::cccllooodddxxkkkkkkOOOOOOOOO0000000000KKKKKKKKKKKKKKKKK000</tspan>
+<tspan x="10" y="36.68">WWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0kl:lolccllccllccccc:;;;;;ccc::::cc::ccc:;;:;;;;,,,,,,;;;;;;:::::cclloodddxxxkkkkkOOOOOOOOOOO0000000000KKKKKKKKKKKKKKKKKK00</tspan>
+<tspan x="10" y="40.2">WWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0xlccolccllc:cllccc::;;;;:clc::::cc::ccc:;;;;;,,,,,,,,,;;;;;::::ccccloodddxxkkkkkkkOOOOOOOOOOOOO00O0000000KKKKKKKKKKKKKKKK00</tspan>
+<tspan x="10" y="43.72">WWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0dc:llllccl::clcclc::;;,;:clc::::::::ccc:;;;;,,,,,,,,,,,;;;;;::cccclllooddxxkkkkkkkkkOOOOOOOOOOOOOOOOO00000000KKKKKKKKKKKKKK0</tspan>
+<tspan x="10" y="47.24">WWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOoc:cllllcc::cllccc::;,,;:ccc:;:c:::::cc:;;;,,,,,,,,,,,,,;;;;;::ccllllodddxxxxkkkkkkkkkOOOOOOOOOOOOOOOO0000000000KKKKKKKKKKKK0</tspan>
+<tspan x="10" y="50.76">WWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOolccllclllc:cllllc::;,;::ccc;;:c:::::::::;;,,''',,,,,,,,,;;;;;;:::cclloodddxxxxxxkkkkkkkkkkkkOOOOOOOOOOOOO00000000000KKKKKKKK0</tspan>
+<tspan x="10" y="54.28">WWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOdol:cllllllcclllcc::;;;:ccc:;;:c:;;:::cc:;;,'''''',,,,,,,,,,,,;;;;;::cclloodddxxxxxxxkkkkkkkkkkkOOOOOOOOOOOOOOO0000000000000000</tspan>
+<tspan x="10" y="57.8">WWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN0ollccllllllccllcc:;;;;;:c:::;;:c:;:::::c:;;,'''''',,,,,,,,,,,,,,,,,;;;;:::ccloodddxxxxxxkkkkkkkkkkOOOOOOOOOOOOOOOOOOO00000000000</tspan>
+<tspan x="10" y="61.32">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKdlc:ccllllllcclcc:::;;;:cc::;;:c:;;:::::;;;,''''''',,,,,,,,;;;;;,,,,,,,,;;;;;:::clooddxxxxxxkkkkkkkkkOOOOOOOOOOOOOOOOOOOOO0000000</tspan>
+<tspan x="10" y="64.84">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXxllc:llcclollllcc::::;;::cc:;;cc:;;;:::::;;,'''''''',,,,,,;;;;;;;:::::;;;;;,,,,,,;:cloodxxxxxxkkxkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOO</tspan>
+<tspan x="10" y="68.36">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNNNXxllc:cllcloollllc:::;;;::c::;:cc:;;;;;:::;,,'''''''',,,,,,,;;;;;;:::ccccc:::;;;;;,,;;::looddddxxxxxxkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOO</tspan>
+<tspan x="10" y="71.88">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOoll::llcllollllcc:::;;:ccc::cc:;;,,;;;;;;,'''''''''',,,,,,;;;;;;::ccccllllccc:::::;;;;::clloooddddxxxkkkkkkkOOOOOOOOOOOOOkkkkkkkkxx</tspan>
+<tspan x="10" y="75.4">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN0oll::clcllolllllc:::;::c::::cc:;;;,,;;;;;,''''''''',,,,,,,,;;;;;::cccclllllllllcccccc:::ccllllllooodxxxxkkkkkkkOOOOOOOOOkkkxxdddooll</tspan>
+<tspan x="10" y="78.92">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXdclc:c:ccloollllc::;;:cc::::cl:;;;,,;;;;,,''''''''''',,,,,,,,;;;::ccclloooooooolllllllcccclllllllloooddxxxkkkkkkkkkkkkkkkxxdollcc:;;;</tspan>
+<tspan x="10" y="82.44">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNOolccc::cloolllcc::;;:cc::::cc:;,,,,,;;;,'''''''''''''',,,,,,,,;;::cccloodddddooooollllllllllllllllllooddxxxkkkkkkkkkkkxxddollcc::;;;;</tspan>
+<tspan x="10" y="85.96">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKxdoccc::looollccccccccc::::cc:,,,,,;;;,''''''''''''''',,,,,,,,,,;;;::ccloodddddooooolllllllllolllloooooddxxxxkkkkkkkkxxxddoolllccccccc</tspan>
+<tspan x="10" y="89.48">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNkddolc:;:loollccccccccc:::cc:;;,,,,,,,'''''''''''''''',,,,,,,,,,,;;;;::ccloolllooooooollllllllllllloooooddxxxxxkkkkkkxxxdoooollllllllll</tspan>
+<tspan x="10" y="93.0">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNKddlcc:;;coollllloolcc:;;:cc:;,,,,,,,,'''''''''''''',,,,,,,,,,,,,,,,,,,,,,;::ccccccllllllllllllllllooooooddxxxxkkkkkkxxxddoooolllllllooo</tspan>
+<tspan x="10" y="96.52">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNXkdoccc;;cloolllllcc::::cccc:;;;;,,,,''''''''''''''',,,,,,,,,,,,,,,'''..'',,,,,,;;;;:cllllllllllllllloooodddxxxkkkkkkkxxdddooooollllllooo</tspan>
+<tspan x="10" y="100.04">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN0olc:c:::coollllcc:::;;::;;;:;;;,,,'''''''''''''''',,,,,,,,,,,,,,,,'...'','',,,,;::;,;:clllllllllllllooooddxxxkkkkOkkkxxdddoooollllllllll</tspan>
+<tspan x="10" y="103.56">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNXxlc:cccclloolllcc::;;;;;;;;;;;,,,,,,''''''''''''''',,,,,,,,,,,,,,,,'''',,''.''';cooc:;,;:cllllllllllloooddxxkkkkOOOOOkkxxddooolllllllllll</tspan>
+<tspan x="10" y="107.08">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXN0occ:clllclollcc::;,;;;;;;;,,,,,,,,,,'',,'''',,,',,,,,,,,,,;;;;;,,;;,''''''''.',coolcc:;,,:llllcllllllooddxxkkOOOOOOOOOkkxddooollllllllccc</tspan>
+<tspan x="10" y="110.6">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOoc:ccllcllllc:::;;;;;;,,,;;;,,,,,'''',''''',,,,,,,,;,,,,;;;;;;::::cccccc::;:::cllllcc::;,;:lolllllllooddxxkkOO00000OOOOkkxdooooollcc:;,,'</tspan>
+<tspan x="10" y="114.12">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0dc:cllcllolccc::;;,,;;;;;;;;,,,,''''''''',,,,,,,,,;;;;;;;;;;:::ccclllloooooooooodooooooolclooollllooodddxxkOOO00K000OOOkkxxddddolc:;:;'..</tspan>
+<tspan x="10" y="117.64">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXOoc::cccllllc:::c::;;:::;;;,,,,',,,,''''',,,''',,,;;;;;::::::ccccclllllllllllllllooolooooooddddoooodddddxxkkOO00KKK000OOOkkkxxkxl:::cc;,''</tspan>
+<tspan x="10" y="121.16">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKKkl::::cclllccc::;:ccc::;;,,,,,,,,,,,,''''',,,,,,,;;;;;::::cclllllllllllllllloooddddddddddddxxxxxxxxxxxxxxkkkO00KKKK0000OOOOkkkkxolcc::;,''</tspan>
+<tspan x="10" y="124.68">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKxc::cc:clllccccccc:;;;,,,,,,,''''','''''',,,,,,;;;:;;:ccccloooooodddddddddddxxxxxkkkxxxxxkkkkxxxxxxxxxkkkkkOO00KKKKK0000OOOOOOOkkkkkdlcc:;</tspan>
+<tspan x="10" y="128.2">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNK00d:::ccoooollllc:;;,,,,,,'''''''''''''''',,,,,,;;:::::ccclooooddddddxxxxxxxxkkkkkkkkkkkkkkkkkkkxxxxxxxxkkkkkOO0KKXXXKK0000OOOOOOOkkxxxdoooo</tspan>
+<tspan x="10" y="131.72">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNX0xc::cloxxdolc:;;,,,,,,,,,,,,''''''''''',,,,,,,;;:;;:cccclodddddxxxxxxxxxxxxxkkkkkkkOkkkkOkkkkkkxxxxxxxxkkkkkOO0KKXXXKK00000000O00OOkxxdooll</tspan>
+<tspan x="10" y="135.24">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKxlcc:looddlc:;;,,,,;,,,,,,''''''''''',,,,,,,,,;;:;;:ccccloddddxxxxxxkkkkkkkkkkkkkkkkOOOkkOkkkkkkkxxxxxxxkkkkkOO0KKXXXK00000000000000Okkxxxdo</tspan>
+<tspan x="10" y="138.76">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNkllo::dolol:;;;;,,,,,''',,'''''''''''',,,,,,,,;;;:::ccccloddddxxxkkkkkkkOOOOOOOOOOOOOOOOkkkkkkkkkxxxxxxxxxkkkkOO0KKXXXKK00000000000000OOkkkxx</tspan>
+<tspan x="10" y="142.28">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKxcll;,:ool::;,,,,,,,,'''''''''''''''',,,,,,,,;;;::cccclloodddxxxxkkkkkOOOOOOOOOOOOOOOOOOkkkkkkkxxxxxxxxxxxkkkkOO00KXXXK00000000000000000OOOkk</tspan>
+<tspan x="10" y="145.8">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXOxloo;;lll:;;;,'',,,,,,''''''''''''',',,,,,,;;;::cc:cllloooddxxxxkkkkkOOOOOOOOOOOOOOOOOOOkkkkkkxxxxxxxxxxxkkkkkOOO0KKXKK00000000000000000000OO</tspan>
+<tspan x="10" y="149.32">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKOodOx:clc::;;,,',,,,,,''''''''''''',,',,,,,,;;::::cllllooooddxxkkkkkkkOOOOOOOOOOOOOOOOOOOkkkkkxxddddxxxxxkkkkkkOOO00KKKK000000000000000000K000</tspan>
+<tspan x="10" y="152.84">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKdlk0xool:;;,,,,,,,,,,'''','''''',,,,,,'',,;;;::::clolooooodddxxkkkkOkkOOOOOOOOOOOOOOOOOOOkkxxxddddddxxxxkkkkkkOOOO00KXKK0000000000000000000KKK</tspan>
+<tspan x="10" y="156.36">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXX0loK0xdoc;;,,,,,,,,,,,''''',,'''',,,''''',,;;;::clllooooodddddxxkkkkkOOOOOOOOOOOOOOOOOOOOkkxxddooodddxxxkkkkkOOOOOOOKXXXKK000000000OO0000000000</tspan>
+<tspan x="10" y="159.88">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKklkK0xol:;,,,,,,,,,,,'''',,,'''',,,'''''',;;:::cllooooooddddddxxxkkkkkOOOOOOOOOOOOOOOOOOkkkxdooooddxxxxxkkkOOOOOOOOO0KKKKK000000000OOOO00000000</tspan>
+<tspan x="10" y="163.4">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXKxdOKOxo:;,,,,,,,,,,,'',,,,,''''',,''''''',;;::clllooooooodddddxxxxkkkkkkkkOOOOOOOOOOOOkkkxxdoooodxxxxxxxkkkOOOOOOOOOO00000000000000OOOOOO000000</tspan>
+<tspan x="10" y="166.92">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKK0dxKKOxl:,,,;;,,,,,,'',,,,,,''',''''''''',,;::cclloooooooodddddxxxxxxkkkkkkkOOOOOOOOOOkkkkxxdoloddxxxxxxxkkkkkkkkkOOOOOO00000000000OOkkOOOO00000</tspan>
+<tspan x="10" y="170.44">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKOdOX0kdc;,,;;;,,,,'',,,,,'''',,,''''',,''',;::ccllooooooooddddddxxxxxxkkkkkkkkOOOOOOOOkkkxxxdoloddxxxxxxxxdddddxxxkkkkOOOOOOOOOOO000OkkkOOOOO000</tspan>
+<tspan x="10" y="173.96">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKxdOX0xo:,,;;;;,,,,,,,,,'''''',,''.',,,,''',;::cllloooodddddddddddxxxxxxxxxkkkkkkkkkkkkkkkkxxollodxxxxxxdddooddddddxxxxkkkkkkkkkOOO00OkkxkkOOOO00</tspan>
+<tspan x="10" y="177.48">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXKxd0XKko:;;;;;;,,,,,,,,''''',,'''''',,,,''',;::clllooodddddddddddddxxxxxxxxxkkxkkkkkkkkkOkkkxollodddddolc:;;:looddddddddddddddddxxkOOOOkxxkkOOOOO</tspan>
+<tspan x="10" y="181.0">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKKkd0XKkoc:cc:;;,,,,''''''',,,'''''''...'..',;::clllooodddddddddddddxxxxxxxxxkkxxkkkkkkkOOOkkdlcclodoolc;'..',;:cloooooooooolc::loddxxkkkkkkkkkkOO</tspan>
+<tspan x="10" y="184.52">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKKkkKK0Odl:::;;,,,,,,''''',,'...''..........';::clllooodddddddddddddxxxxddddxxxkkkkkkkkkOOOkxdolccclllc::;;;:::cclllllllllc;'..';cloodxkOkkkkkkkkk</tspan>
+<tspan x="10" y="188.04">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXK0kOK000xl:;;,,,,,,,'''',,,''''.............';::clloooodddddddddddddxxxddddxxxxxxkkkkkkkOOOkddollcc:::::cccccccccclllccccccc:;,;:clloxkOOOkkkkkkkk</tspan>
+<tspan x="10" y="191.56">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNX0Ok0K00kdc:;,,,,,,,''',,,,'..'..............',::clloooodddddxxdddddddddddddxxxxxxxkkkkOOOOkxddooollcccccccccllllllllllllloolllcccccoxO0000OOkkkkkk</tspan>
+<tspan x="10" y="195.08">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXK0OkKX0kxoc;;,,,,,,,,,,,,''..................',;:clllooddddddxxxxxxxdddddddddddddxxxkkkkkkkkxddoooolllllllllllllllllllllloooolllccloxO000000OOOkkkk</tspan>
+<tspan x="10" y="198.6">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKKOOKX0Okxl:;,,;,,,,,,,'.....................',;::cllooddddddxxxxxxxxdddddddddddddxxxxkkkkkxxdddoooooooooooooooooooolllloooooooooddkO0K000000OOOkkk</tspan>
+<tspan x="10" y="202.12">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKX0kKNKOOkl;,,,;,,,,,''.......................,;;:cclooddddddxxxxxxxxxddddddddddddxxxxxxxxxxxddddoooooooooooooooooooooodxkkkkkkkkOO0000000000OOOkkk</tspan>
+<tspan x="10" y="205.64">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXKKOxOXKOOkl;;;;;,,,''.........................',;::cloooddddxxxxxxxxxdddddddddooodddddddddddddddddddddoooooooodxxxxxddxkO00OOOOOOO0000000000OOOOkkk</tspan>
+<tspan x="10" y="209.16">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKK0OOKK00dc;:;;;,,'............................',;:cllooddddxxxxxxxxdddddddddooooooooodddddddddxxddddddddoooolodxxkOO0000OOOOOOOOO00000000OOOOOkkkk</tspan>
+<tspan x="10" y="212.68">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNNXXXX00000OOxc;:;,,,''............................',;::cllodddddxxxxxxxddddddddoooooooooodddddddddddddooolllcccccclllldxkxdooddxkOOOOOOOOOOOOOOOOOkkkx</tspan>
+<tspan x="10" y="216.2">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNXXXNX0XKO0kkxc;;;,,,''..'..........................',;:cllooddddxxxxxxxxdddddddooooooooooooooodoollccccc:::::ccllcclllloolllllllodxkOOOOOOOOOkkkkkkxxx</tspan>
+<tspan x="10" y="219.72">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXNX0XN0OOxoc::;;,,'.''............................',;:cllooddddddddxxxdddddddoooollllllccccccc::::;;:::::::ccccccccclloooollllccclodxkkkkkkkxxxxxddd</tspan>
+<tspan x="10" y="223.24">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNXXNX0KNXOOdolc:;;,,'''....''........................';;:clloodddddddddddddddddoooolllcc::;;;,,,,,;,,,,,,,,,;;:::cccccccclllcccc::::::clodxxxxdddooood</tspan>
+<tspan x="10" y="226.76">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXNXKKNN0xooo::;;,,''....''..........................',;:clloooddddddddddddddoooolllllllcc::cc::::::::cc:;;;,,,,;;;;:;;::c::;;;;;;;;;;;;:cloooolloooo</tspan>
+<tspan x="10" y="230.28">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXNXKXNXxlol:::;,''..................................';::cllooooddddddddddddoooolloooooollccccllllloodddxdddoc:;;;;,;;;;::;;;;,,,,,,,,,,,;::cccllood</tspan>
+<tspan x="10" y="233.8">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNXXXXNNKXNX0ollcc:,''.....''.............................',:ccllooooodddddddddddooooooooooooollcccccccclllooddxkxddddddxxxxxxxxxxxdolcc:;,,,,;::ccloooo</tspan>
+<tspan x="10" y="237.32">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXNNNXXXNNXXXKkoolc:;,'''....''...............................,:ccllooooooooddddddddoooooooodddoooollcccccccccccclooooddddxxxkkkkkkkxxxxdolcc:::cccllloooo</tspan>
+<tspan x="10" y="240.84">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNWNNXKXNNX00kxkdcc:;,,'....'''................................';:cllooooooooddddddddddddddooooooooooolcccc:::::::ccccccccllllloollllllcclllllllollooooooo</tspan>
+<tspan x="10" y="244.36">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKNWWN0xxOxlc::;,''....''...............''..................;:cllooooooddddddddddddddddoooooooooollllcc:::::::::::;:;::::;::::::;:::cclloooooooooolll</tspan>
+<tspan x="10" y="247.88">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNXXNNNXkd0Oocc:;,,''...'''''...........''.''............... ..,:clloooooodddddddddddddddoooooooooollllccc:::::::::;;;;;;;;;;;;;;;;:::cclloooooooolllll</tspan>
+<tspan x="10" y="251.4">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNXKNNXOkOOxl:c:,,,''...''''''......'...'''''................  ..;cclllooodddddddddddddddoooddoooooooollllccc:::;;;;;;::;;;;:::::::ccclllooddddoooolllc</tspan>
+<tspan x="10" y="254.92">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNKKXX00KKxc:ll;,;;'....''''''......''...'''''.................  .,:clllooodddddddddddddddddddddooooooooolllcccc::::::ccccccccccclcclllooddxxxddoollllc</tspan>
+<tspan x="10" y="258.44">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNNXXNK0KX0l:col,;;,'....''''''......''....,,'''...............   ..';:clloooooodddddddddddddddddddddoooooollllccccccccclllllllllloooooddxxxxxxdddollllc</tspan>
+<tspan x="10" y="261.96">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNXXK00K0o::cl:;:;,''..'''''''.......'....','''...............    ..'';:cllooooodddddddddddddddddddddooooollllllllllllllllooooodddxxxxxxxxxxxddooollccc</tspan>
+<tspan x="10" y="265.48">NNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNWNNXKKK000d;col::cc;',,'.'''''''.......'.....','''..............    ....',;:clloooooodddddddddddddddddddoooollllllllllllloooddxxxkkkkkkkkkkxxxddoolllcc;'</tspan>
+<tspan x="10" y="269.0">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNXKKK0Kk::dxl;;c:;,;;'..'',''''......'''...','................     ...''',;:clloooodddddddddddddddddddoooooooolllllllloooddxkkkkOOOkkkkkxxddooolccc;'. </tspan>
+<tspan x="10" y="272.52">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWNNNXKKK0xlcdko:;co:,,:;'..'',,'''......''.....,,'.................   ...'''''',:clloooodddddddddddddddoooooolllooolllloooooddxxxkkkkkkkkkxxddoollc:,..   </tspan>
+<tspan x="10" y="276.04">NNNNNNNNNNNNNNNNNNNNNNNNWNNNNNNNNNXKKKKx:cdkkd:,okc,''''..'',,..'.......'.....','.................   ....''''''',;clooooodddddddddddooooooolllllollllooooooooddxxxxxkkxxxdddollc:,.......</tspan>
+<tspan x="10" y="279.56">NNNNNNNNNNNNNNNNNNNNNNNNWNNNNNNNNXKKXKxclkxk0x:,oOl,''''.''',,'.'.......'......''..................   ....''''''',,;:cloooodddddddddoooooooollllllooooollloooodddxxxxxxddoolc:,... ......</tspan>
+<tspan x="10" y="283.08">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKXKxclkkx0Kkc:k0l''''''..',,'.........'......'''................    ....'''''',,,,,;:cllloooooddddooooooooooooloooolllllloooooddddddooolc;'..  ........</tspan>
+<tspan x="10" y="286.6">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXKdclx0kkKKkccO0l'.'''...',,'.........''.......'................    ....''''',,,,,,,;;::ccllloooooooooooooooooooollllllllooooooooolllc:,...   ......''.</tspan>
+<tspan x="10" y="290.12">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXKKOocdxk0O0XKOccOKl''''....',,'.........''.........................    ...''''',,,,,,,;;;;:::cccllllooooooooollllllllllllllllllllllcc;,..      ....'''''.</tspan>
+<tspan x="10" y="293.64">NNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXKxccx0KKOkKXX0c:OKo,'''''..',,,'.........'.........................    ....'',,,,,,,,,;;;;::::::::cccccllllllllllllllllllllllccc:;,....       ....''.''..</tspan>
+<tspan x="10" y="297.16">NNNNNNNNNNNNNNNNNNNNNNNNNNNXXNX0ocox0XNXOkXNK0lc0Ko;,''''..,::,,,'.................................    ....'',,,,,,,,;;;;;:::::::::::::::::::::::::cccc:::;;;,'....       ...............</tspan>
+<tspan x="10" y="300.68">NNNNNNNNNNNNNNNNNNNNNNNNNNNNX0dlok0KXNNNKOKNK0o:kOl:,''...',,;cll;'.................................  .....'',,,,,,,;;;;;;;::::::::::::::;;;;;;;;;,,,,,,''...  ......   .................</tspan>
+<tspan x="10" y="304.2">NNNNNNNNNNNNNNNNNNNNNNNNNNXKxlldOKXNNNNNX00XXKx:oxo:'.....''.;lol:,'.......''.......................  .....'',,,,,,,;;;;;;::::::::::::::::;;;;;;;,,,,,'''...........    ...............,,</tspan>
+<tspan x="10" y="307.72">NNNNNNNNNNNNNNNNNNNNNNWWX0kooxOKXNNWNNNNNK0XN0xc:oxc''.......:do:;''........'.......................  .....'',,,;;;;;;;;;::::::::::::::::;;;;;;;;;,,,''.............  ..............',,,;</tspan>
+<tspan x="10" y="311.24">NNNNNNNNNNNNNNNNNNNNWNK0kddOKKKXNNNWNXNWWX0XXK0d:dko,.....'..,lc;,'''.......................................',,,;;;;;;;::::::::::::::::::;;;;;;;;;,,...............  ....... .....'',,,,,</tspan>
+<tspan x="10" y="314.76">NNNNNNNNNNNNNNNNNNXKKOxdxOXXKXNNWWNNNNNWWN0KXK0o:dkd:..'..'...,,',,'''......................................',,,;;;;;;::::::cccccc::::::;;;;;;;;;,...................... .........'..'''.</tspan>
+<tspan x="10" y="318.28">NNNNNNNNNNNNNNXKKKK0kkk0XXXNNNNWWNNNNNNNWN00XXOl;okkl'.''''....'''''''.......................................',,;;::::::::::cccccc::::::::;;;;;,'.......''.......  ... ..................</tspan>
+<tspan x="10" y="321.8">NNNNNNNXXNXXXXXKK0OO0KXXXNNNNNNNNNNWNNNNNWX0XXOo;cOkl,.''''....''..''''........................  ............',,;;:::::::::::ccccc:::::::;;;;;,'......'''......    ......................</tspan>
+<tspan x="10" y="325.32">NNNXXXXXXXXNNX0OO0XNNXXXNNWWNNNNNNNNNNXNWWNK0KK0o:oo:'.''''''...''..''''.......................   ...........',;;:::::::::::::::cc::::::;;;;;,...''..'''.............................   .</tspan>
+<tspan x="10" y="328.84">NNNNNNNNXKK0OO0KXNNXXNNNNWNNNNNNNNNNNNNNNNNX0OKXOl;;;,'.'''''...''....''........................    .........',;;:::::::::::::::::::::::;;;;,...''..'''...........................     ..</tspan>
+<tspan x="10" y="332.36">NNNXXKK0OOO0KXNXNNNNNNNWNNNNNNNNNNNNNNXXXXX0kxxxkxl;,,'.'''..'...''.............................    .........',,;:::cc:::::::::::::::::;;;;;'..''..',...........................      ...</tspan>
+<tspan x="10" y="335.88">XXXK0000KXNNNNNNNNNNNWWNNNNNNNNNNNNNNNXXXNX0KX00KKd;,,'..''''''..''..............................   ..........',;:::ccc:::::::::::::::::::;'...''.''........ .............. .... ....   .</tspan>
+<tspan x="10" y="339.4">XXXXXXNNNNNNNNWNNNNNNNNNNNNNNNNNNNNNNNNNNXKXNNNKOoc;;,,'..'''''...''..............................    ........',;:::cccc::::::::::::::::::;....,'.......................  ............. .</tspan>
+<tspan x="10" y="342.92">XXXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKXNWN0xolc::,,'..'''''...'''............................     .........,;:::ccc::::cc::::::::::::;,...','........................................</tspan>
+<tspan x="10" y="346.44">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXXOdodxdl:;,,,'..'''''..'''............................     ..... ...';:::ccc::::c:::::::::::::;,...','.. .....................................</tspan>
+<tspan x="10" y="349.96">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXN0olxkkd:,,,,,,,'''''....'''............................     .....  ..';::cccc::::c:::::::::::::;,...','........................................</tspan>
+<tspan x="10" y="353.48">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKdldOOxl;..,,''',,,''......''.............................   ...... ...';:cccc:::::c::::::::::::::;...',............'... ........................</tspan>
+<tspan x="10" y="357.0">NNNNNNNNNNNNNNNNNNNNNNNNNNNXXNNNNXXNNNXkcckOdl;'.';;'.'',,,''......''.............................   ......  ..';:cccc:::::c::::::::::::::;'......   .....''........''''''''.............</tspan>
+<tspan x="10" y="360.52">NNNNNNNNNNNNNNNNNNNNXNNNNNNNXXXXXXNNX0o:oOxl:,'',,'.',,''...''.....'''............................   ......  ..,;:ccc::::::cc:::::::::::::;,.....    ...'..........',''''''''............</tspan>
+<tspan x="10" y="364.04">NNNNNNNNNNNNNNNNXNNNNNNNXXXXXXNNNWNKd::dxo:;'.';,.',,,'......''....''.............................  ...........,;:ccc::::::ccccccc:::::::::,....    .............'',,,,,,,''''...........</tspan>
+<tspan x="10" y="367.56">NNNNNNNNNNNNNNNXXXKOdooolccccclldOk:,cxdlc;'',;,,,;,'........'''....'............................   ...........,;:ccc::::::ccccc::::::::::;,....    ...........',,;;,,,,,,,''''..........</tspan>
+<tspan x="10" y="371.08">NNNNNNNNNNNKOkxdolc;,,,;;,,,,,,cdo;;lolc:;',;:::;,'................''.................................... .....,::cccc:::::::::::::::::::;;''..     .........',,;;,,,,,,,,'''''''........</tspan>
+<tspan x="10" y="374.6">NNNNNNNNNN0o:::;;;,,,,,,,,,,,;oxc',cc;:;;;::::;,,'..................'......................... ........  .....';::cccccc::::::::::::::::;;;''..      .......',,;;,,,,,,,,,''''''.........</tspan>
+<tspan x="10" y="378.12">NNNNNNNXNXo;;;;,,,''',,,,,;;lxo,,ll::c::ccc:;,'............''.......''.......................  .......  ......';:cccc:::::::::::::::::::;;;,'..     ........''',,,,;;;;;,,'''''..........</tspan>
+<tspan x="10" y="381.64">NNNNXXXNXk;,,,,,,,,,;;;,,,;dkc':dlccllcc::,...............''.........''.............................  ...'..'',;:ccccc:::::::::::::::::;;;;,'... ..........''..',;;;:::;;,''.............</tspan>
+<tspan x="10" y="385.16">XNNNXXNNO:',;,,,,,,,,,,,,:dd;;lddllllc;;,................'........'..''............................  ..'','',,,;:cccccc::::::::::::::::;;;;,''...... .........'',;:::::;,,'..............</tspan>
+<tspan x="10" y="388.68">XXNNXXN0c'',,,,,''''',,,;oo;cxdlc:cc:,''................'.. .....''...................................',;,,,,;;;:ccccccc:::::::::::::::::;;;,,'....  ............',;;;,,,'...............</tspan>
+<tspan x="10" y="392.2">XXXNXNXd,',,,,''''''''';ol;okdc;::c;'''.... ...........'.........'''...'.....''.....................';;;:;;;;;;:ccccccc:::::::::::::::::::::;,.......   ...''''..........................</tspan>
+<tspan x="10" y="395.72">XXXXXNOc',,,'''''''''';lc:ddlc::c:,'''...............'''......',,,''...''...'......................,;::::::;:::ccccccc:::::::::::::cccccccc:;'...............',,,''......................</tspan>
+<tspan x="10" y="399.24">XNXXNXd;,,,,,,,'''''':dlcxdcc:;;,,'''.........'..'.'','....,,,,,'...''','.........................',;:::::::::cccllccccc:::::::ccccclllllllc,......''''''......'','......................</tspan>
+<tspan x="10" y="402.76">XXXXNO:,,'',,,''''',ckocxd:;'''',,''.........',...',,,'...','.....'','......... .................',;:::::::ccccccllllcccccccccllllllllollll:'....';;::::;;,,,,,''''......................</tspan>
+<tspan x="10" y="406.28">XXXXXx,''''''''''',cOdcoc'..';;;,'''.........,,'.',;,'...','...''''..............................';;;::cccccccclllllllllllllllllllooooooool,.....;cccccclcc:::::::::::ccc::;;;,..........</tspan>
+<tspan x="10" y="409.8">XXXNKl'''''''''''':kxlc,''';::;,'''.........',,'';c;'....'''',,'.................................';;;:ccccccclllllllllllloooooooooooooooooc'....,clcllllllllllllloodddddolc::,'.........'</tspan>
+<tspan x="10" y="413.32">XXXXO:...'''''',,:kxcoc,,';c:;;,'''........',,;,,cc,....'.''''................................''',;;::cccccllllloooooooooooooooooooddooooo;....':lllooooooooooddxxxxxxdolllc;'..........,</tspan>
+<tspan x="10" y="416.84">KKKXx,....',',,,:kxlxo;,;;:;,,;,,'.'....''',,;;,,:;....',''................''................''',,;;::ccllllllooooooooodddddddddddddddoodl'....,loooddddddddxxxxxxxxxxdollc;'...........,</tspan>
+<tspan x="10" y="420.36">KKXKo,....,,,,,;xxlxo:::c:;;::;;,..'...'',,;;;:;;,'...','.................''................',,,,;;::cccllllooooooddddddddddddddddddddoodc....':ooodddddxxxxxxxxxxxxddollc;,...........';</tspan>
+<tspan x="10" y="423.88">XKK0l'....,,,,;ddlxo:ccc;;,;:;;;,..,'.',,'',;::;,''','..................'''......'.........'',,,;;:::ccllllooooddddddddddddddddddddddddoo:....,lodddxxddxxxxxxxxxxxddoolc;'.........'..,;</tspan>
+<tspan x="10" y="427.4">KKXO:.....',,,cllxo;colc:clc:;,,'..',.','..';::,,;,....................',,'................',,;;;:::cccllllooddddddddxxxxxxxxxxdddddddddo:'...:odddxxxddxxxxxxxxxxdooolc;,.........'...;;</tspan>
+<tspan x="10" y="430.92">XXXx;'....',,,:dkd:cdocclollc;;,....,,,,..'',;;;;'........'..........''',,..........'....'',,;;::::ccclllloodddddxxxxxxxxxxxxxxxdddddddddl,..'cddddxxxxxxxxxxxxxddoollc;,.............';;</tspan>
+<tspan x="10" y="434.44">KXKo,'....',.'o0x::llcccccc:,;;'.....,;,''''',;,'....'''...''.......'',,,'..............',,,,;::ccccclllooooddddxxxxxxxxkxxkkxxxxddddddddo:,''cdxxxxkxxxxxxxxxxddolllc;'..............',;</tspan>
+<tspan x="10" y="437.96">KXOc'....'...;Okc;:lllolc:,,;:;'....',,'..',',,'.....,,...''.......'',,,'................,,,;::cccccllloooddddxxxxxxkkkkkkkkkxxxxdddxxxxxdo:,,:dxkkkkkkxxxxxxxxdooolc;,'''...''',,,...',;</tspan>
+<tspan x="10" y="441.48">KXk:,'.'.....;ko;;clllll:,,::cc;',''...'..',,,,......'''...'''....',,,'''...............',,;;::ccclllooooddddxxxxkkkkkkkkkkkkkxxxxxxxxxxxxxo:;:oxkkkkkkkkkkkkxdooolc;;,,'..'::;;::;..',;;</tspan>
+<tspan x="10" y="445.0">XK00Okkd:'...cxc;:odlll;,;:cllc;'''....'...',,,..',,'','...'''''.'',,,,''..............'',;;:cccclllooooodddxxxxkkkkkkkkkkkkkxxxxxxxxxkkkkkxoccoxxxxkkkkkkkkkxdooolc:,''.',;c:;:::,..,;;;</tspan>
+<tspan x="10" y="448.52">XXKXXXXX0c..'ll;;lxddl;,;:clllc:,'''.......'','..,;;,,;,...'''.'...''''................',,;:cccllloooddddxxxxkkkkkkkOOOOkkkkkxxxxxxxxxkkkkkkkdolddxxkkkkkkkkxxddolc;,,,;;;:lc;;;;;'.';;;;</tspan>
+<tspan x="10" y="452.04">KKKKKKK0d;..:l:;:dxoc,,:cllccllc;,,'''.....',,'.';,,,;:;,,,''',,'............'........',,;::clloooddddddxxxxkkkkkkkOOOOOkkkkkkxxxxxxxxxxxxkkxxkxdxxkkkkkOkxxxxdolc:;;:::::ll;,,;;,..,;;;;</tspan>
+<tspan x="10" y="455.56">KKKKKko:...'ll;:dko;';:clllodol:;;;,'''....'',,.,;,,;:c:;:;,,,'''..........'''''.......,;:cclloddddddxxxxkkkkkOOOOOOOOOOOOkkkkxxxxxxxxxxxxxkkkkkkkOOkkkkkkxxxxdolllllccccll:;,;;;'.,;;::;</tspan>
+<tspan x="10" y="459.08">KKK0d;.....;l:;oxl'.,:cllloddl:;;,;;,,,'.''',;,',;,,;:c:,,;,,;,''.........',,'''.......,;:clloodddxxxxkkkkkkkOOOOOOOOOOOOOOkkkkkkkxxxxxxxkkkkOOOOOOOOkkkkkkkkxddoolloollloc:c::c;'';:;:c:</tspan>
+<tspan x="10" y="462.6">XK0x,......:c;lo;..,;cllooddoc:;;;;;;;;,'''';:;,,,,,;;;;;,,,,,;,.... ....',,,''''......';cllooddxxxxxkkkkkkOOOOOOOOOOOOOOOOOOkkkkkkkkkkOOOOOOOOOOOOOOOkkOOkkkkxxdddddoolol::cccc;.';:;:lc</tspan>
+<tspan x="10" y="466.12">0O0o.......clcc...,:cllloddoc:;;;:;;::::,,,,;::;,,,,','.',,''';:;.. ....',;;,''''.'''.',;clodddxxxxkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkOOkkkxxddooooc;;:cc:'.;;;;:cc</tspan>
+<tspan x="10" y="469.64">0O0k,.....,oo:....;lollldxdc::cccc:::;;;;,,;::::;,,'',,...'',,,;:;. ...,,;;;,,'''',;;;,;:coddxxxxkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkxddoooc;,,,;:,.,:;,;:::</tspan>
+<tspan x="10" y="473.16">0OKKc.....:dc.....;ooloxkxocclllc:;;;;;,,,:llc:c:,''..,;'..',,'';c;..',,;;;,;:,',,cccccccloddxkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkddool:,''',,'.';;,;;::</tspan>
+<tspan x="10" y="476.68">0OOKO:...'oo,....,clloxkxolllllc::;,,,;,,:looc:c:;,'..',,...''''';c:,;;;;;;:cc;,;:lolooodddddxxkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxdoool:,'',,'..,;;;;:::</tspan>
+<tspan x="10" y="480.2">OkO0KOc'.co,....':lloxkxlccclllcc:;,',,:codocccc::;,'''',;,..',,',;cc;,;;;:ccc;,;looodddxdxxxxkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00OOOOOOOOOOOxddoolcc:;;;'..,;;:;;:;;</tspan>
+<tspan x="10" y="483.72">xk0KK0OOxl'....';lloxxolcccloollc:,'',:cldxoc::::c:;,,',',;,..','',,:c;;;:llolc;:oddxxxxxxxkkkkOkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00OOOOOOOOOkxddol:cclc;'..,,;;:;;:;,</tspan>
+<tspan x="10" y="487.24">00KKKKX0l.....';:ldxdolcclllooolc;,',:lloxdl:::::c::;,,,'.','...,,,'';:::clooolccdxxkkkkkkkkOOOOkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxddooc:;;::;..',,;::::::;</tspan>
+<tspan x="10" y="490.76">KKKKKKk:....',,;cddolccclllllolc;;,;clllxxoc:::::::::;;;,'..,,..',;;,,,:ccllooooldkkkkkkkkkkOOOOkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxdolcc:,,,,'..,,;::;;:::;</tspan>
+<tspan x="10" y="494.28">KKKK0d,....';;;cdollollllllllc:;,;cooooxkdlc:;;:::::::;;,''.',,'..,,',,;::cloddddxkkkOkkkkkOOOOOOOOOOOOOkkkkkkkOOOOOOkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxddlc::;;;;'..,;;;;;;;;;;;</tspan>
+<tspan x="10" y="497.8">KKKOc....',;;clolllllllllcllc:;,;lddddxkxoc::;;;;;;;::;,,,'''',,'..',,',,;:codxxdxkOOOOOOkkOOOOOOOOOkkkkkkkkkkkkOOOkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxdolcc:;;;;'.';:::;;;;;;;;</tspan>
+<tspan x="10" y="501.32">KKO;. ..',;:coollolllllllolcc;;coxdodkOxolc;;;;:;;;;,;;;;,,,,'',,,...',;;;;:ldxxkxkkOOOOOOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxdoc:ccc:;,..';::;;,;;;;:c:</tspan>
+<tspan x="10" y="504.84">KO:. ...,;:lolclllccclllllc:::lxdooodkxolc:;,;:::;,,,,,,;;;,,,,,,,,...,;;;;::cdxxkkkOOOOOOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOkxdc:;:;:c:'.',;::;,,,;;:::c:</tspan>
+<tspan x="10" y="508.36">0l. ..'',:olcclllcccllcccc:::dxdoooxkxoll:;;,,;:::;,,;;;;;;;;,,,;;;;'..';;;,;codxxkkkOOOOOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOkxol::;;;;,'.';::;::;,;;:::::;</tspan>
+<tspan x="10" y="511.88">x, ..''';llccloolclollcc:::lxkxoodxkxoolc;;,'',;;::;;;;;;;;;;;,,,,,;;,...,;;;coddxkkkkOOOOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOxolccc;,,'..,::;::::;;;;;::::;</tspan>
+<tspan x="10" y="515.4">l. ..'',cl:clllcclodocc:;:cxOxddxkOkdolc:;,,'',;:::;;;;;;;;;;;;;;,,,::;'..,;cdlldxxkkkkkOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOkdlcc:c:;,'..;c;;;;::;;;;;:::;;;</tspan>
+<tspan x="10" y="518.92">;...''';:::loooooddoc::;:okOxxxkOOkdolc::;,,'',;::;;;;::::::c:::;;;;;;;;'.:ol:cldxxkkkkkkOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOxoc:::;;:,..,cc:;;;:::;;;;;:;;;;;</tspan>
+<tspan x="10" y="522.44">....''':clodxdoooolc::;:dOkxkkkOOxdolc::;;,,'',;cc:;;;:ccccc:::::;;,',,;:okdlooldxxkkkkkkkOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOkxdlc:;;;;,,..;lc;;:::::;;;;;::;;;;;</tspan>
+<tspan x="10" y="525.96">.....';oodxdollllcc:;;cdkkxxxkkkxdolcc:;;;,,,,,;:c:cc::clollc::::;;,,'';oOdlxxddxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOkolc::::c;'..';cc;;:cc:;,,;;;::;;;:;;</tspan>
+<tspan x="10" y="529.48">...'';lddolccclolc:::cdOOxdxkkxxdolc::::::::::::::lllcllooollcc:::;,,'.:k0ookxodxxkkkkkxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOkOxl:;;;;;;;'..,:::::ccc:;;;;;;;;;::;;;;</tspan>
+<tspan x="10" y="533.0">..''':ddlc:ccloooc::coO0kddxkxxdoccc::;;::::::;;:cccclollllllllcc:;,''.c00xxkxooxkkkkkkxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOkkkOOOOOOOOOOOOOOkl;,,;;;;,...,;:::cclc:::;;;;:;;;:::::;</tspan>
+</text>
+<text x="395" y="25" fill="#1f2328">
+<tspan x="395" y="25">kamille@github -——————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="45"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Windows 11 / Linux</tspan></tspan>
+<tspan x="395" y="65"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">IT Student  •  Freelance Web Developer</tspan></tspan>
+<tspan x="395" y="85"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Philippines 🇵🇭</tspan></tspan>
+<tspan x="395" y="105"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">● Available for freelance work</tspan></tspan>
+<tspan x="395" y="125"><tspan class="cc">. </tspan><tspan class="key">About</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">I build functional, reliable,</tspan></tspan>
+<tspan x="395" y="145"><tspan class="cc">.                             </tspan><tspan class="value">user-friendly websites that help</tspan></tspan>
+<tspan x="395" y="165"><tspan class="cc">.                             </tspan><tspan class="value">businesses grow online.</tspan></tspan>
+<tspan x="395" y="185"><tspan class="cc">.</tspan></tspan>
+<tspan x="395" y="205"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">JavaScript, PHP, Java, Kotlin, Swift</tspan></tspan>
+<tspan x="395" y="225"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="395" y="245"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Human</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Filipino, English</tspan></tspan>
+<tspan x="395" y="265"><tspan class="cc">.</tspan></tspan>
+<tspan x="395" y="285"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Web Development, Embedded Systems</tspan></tspan>
+<tspan x="395" y="305"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Learning</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Always exploring new technologies</tspan></tspan>
+<tspan x="395" y="325">- Contact -——————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="345"><tspan class="cc">. </tspan><tspan class="key">Freelance</tspan>.<tspan class="key">Sites</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">bitcoincitadel.net, mediatiger.co</tspan></tspan>
+<tspan x="395" y="365"><tspan class="cc">.                             </tspan><tspan class="value">rentalizer.ai</tspan></tspan>
+<tspan x="395" y="385"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Coming soon...</tspan></tspan>
+<tspan x="395" y="405">- Tools -——————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="425"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JavaScript, React, PHP</tspan></tspan>
+<tspan x="395" y="445"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Node.js, MySQL, Nginx, Linux</tspan></tspan>
+<tspan x="395" y="465"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Flutter, Swift, Kotlin</tspan></tspan>
+<tspan x="395" y="485"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Arduino, WordPress, Figma, Git</tspan></tspan>
+<tspan x="395" y="505">- Academic Projects -——————————————————————————————-—-</tspan>
+<tspan x="395" y="525"><tspan class="cc">. </tspan><tspan class="key">ECO-CHARGE</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Solar-powered charging kiosk</tspan></tspan>
+<tspan x="395" y="545"><tspan class="cc">. </tspan><tspan class="key">Casanjo Resort</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Booking website (PHP/MySQL)</tspan></tspan>
+<tspan x="395" y="565"><tspan class="cc">. </tspan><tspan class="key">Milktea POS</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Point-of-sale system (Java)</tspan></tspan>
+</text>
+</svg>

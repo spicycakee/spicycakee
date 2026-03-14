@@ -1,52 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=00E560&center=true&vCenter=true&width=500&lines=IT+Student+%F0%9F%8E%93;Freelance+Web+Developer+%F0%9F%92%BB;WordPress+%7C+PHP+%7C+React+%7C+Flutter;Always+learning+new+things..." alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="45%" align="center" valign="top">
-
-<img src="banner.svg" width="420" alt="ASCII Art Banner"/>
-
-</td>
-<td valign="top" align="left">
-
-```yaml
-kamille@github:~$
-
-  OS:        Windows 11 / Linux
-  Role:      BS Information Technology
-             Student
-  Location:  Philippines 🇵🇭
-  Status:    ● Available for freelance work
-  About:     I build functional, reliable,
-             and user-friendly websites
-             that help businesses grow
-             online.
-
-  Languages:
-    Code:    JavaScript • PHP • Java
-             Kotlin • Swift
-    Markup:  HTML • CSS • JSON • YAML
-    Human:   Filipino • English
-
-  Freelance:
-    → bitcoincitadel.net
-    → mediatiger.co
-    → rentalizer.ai
-
-  Contact:
-    GitHub:  github.com/[yourhandle]
-    Port:    coming soon...
-```
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/[YOURUSERNAME]/[YOURUSERNAME]">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOURUSERNAME]/[YOURUSERNAME]/main/dark_mode.svg">
+    <img alt="Kamille's GitHub Profile README" src="https://raw.githubusercontent.com/[YOURUSERNAME]/[YOURUSERNAME]/main/light_mode.svg">
+  </picture>
+</a>
 
 ---
 
