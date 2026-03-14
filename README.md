@@ -1,7 +1,7 @@
-<a href="https://github.com/[YOURUSERNAME]/[YOURUSERNAME]">
+<a href="https://github.com/spicycakee/spicycakee">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOURUSERNAME]/[YOURUSERNAME]/main/dark_mode.svg">
-    <img alt="Kamille's GitHub Profile README" src="https://raw.githubusercontent.com/[YOURUSERNAME]/[YOURUSERNAME]/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spicycakee/spicycakee/main/dark_mode.svg">
+    <img alt="Kamille's GitHub Profile README" src="https://raw.githubusercontent.com/spicycakee/spicycakee/main/light_mode.svg">
   </picture>
 </a>
 
