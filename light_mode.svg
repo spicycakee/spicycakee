@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="985px" height="605px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1120px" height="605px" viewBox="0 0 1120 605" font-size="14px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,7 +13,7 @@ size-adjust: 109%;
 .cc {fill: #8c959f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="605px" fill="#ffffff" rx="15"/>
+<rect width="1120px" height="605px" fill="#ffffff" rx="15"/>
 <text x="10" y="10" fill="#1a7a2a" font-size="3.35px" font-family="'Courier New',Courier,monospace">
 <tspan x="10" y="8.52">WWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNXOdoooollllcloollccccc:;;;::clllllooolcc:cc::::;;;;;;;;:c::::::::ccccclllooddxxxkkkkkkOOOOO0000KKKKKKKKKKKK000000OO</tspan>
 <tspan x="10" y="12.04">WWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKkdlloolclllllollccccc:;;;:ccllllloollccc::::::;;;;;;;;::::::::ccccccclllooddxxxkkkkkkOOOO00000KKKKKKKKKKKK000000000</tspan>
