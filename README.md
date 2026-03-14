@@ -1,29 +1,32 @@
-<!--
-  HOW TO USE THIS README:
-  1. Upload banner.svg to your profile repo (same folder as README.md)
-  2. Paste this README.md content
-  3. Preview in GitHub editor before committing
--->
+<div align="center">
 
-<table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=00E560&center=true&vCenter=true&width=500&lines=IT+Student+%F0%9F%8E%93;Freelance+Web+Developer+%F0%9F%92%BB;WordPress+%7C+PHP+%7C+React+%7C+Flutter;Always+learning+new+things..." alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td width="45%" align="center" valign="top">
 
-<img src="banner.svg" width="100%" alt="ASCII Art Banner"/>
+<img src="banner.svg" width="420" alt="ASCII Art Banner"/>
 
 </td>
-<td valign="top">
+<td valign="top" align="left">
 
 ```yaml
 kamille@github:~$
 
   OS:        Windows 11 / Linux
-  Role:      BS Information Technology — Student
+  Role:      BS Information Technology
+             Student
   Location:  Philippines 🇵🇭
   Status:    ● Available for freelance work
-  About:     I build functional, reliable, and
-             user-friendly websites that help
-             businesses grow online.
+  About:     I build functional, reliable,
+             and user-friendly websites
+             that help businesses grow
+             online.
 
   Languages:
     Code:    JavaScript • PHP • Java
@@ -44,12 +47,6 @@ kamille@github:~$
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=00E560&center=true&vCenter=true&width=500&lines=IT+Student+%F0%9F%8E%93;Freelance+Web+Developer+%F0%9F%92%BB;WordPress+%7C+PHP+%7C+React+%7C+Flutter;Always+learning+new+things..." alt="Typing SVG" />
-</p>
 
 ---
 
